@@ -1,9 +1,21 @@
-# Desafio Coffee Shop
+# Coffee Shop
 
-## Curso: Desafio Coffee Shop do Curso de Formação React (módulo 02)
+Simple Web Store using TypeScript, styled-components, React with Reducers, Context API and immer, running on Vite.
 
-- **vite**
-- **react**
-- **typescript**
+## Screenshots
 
-Neste projeto pratiquei principalmente o uso de `Reducers`, `Context API` usando o `immer` para facilitar a manipulação dos dados de estado.
+![home](./docs/demo.gif)
+
+## Getting Started
+
+```bash
+# clone the repo
+git clone https://github.com/rcmonteiro/coffee-shop.git
+
+# install dependencies
+cd coffee-shop
+npm install
+
+# run dev
+npm run dev
+```
